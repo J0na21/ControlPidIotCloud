@@ -21,11 +21,11 @@ Saludos.
 === Folder structure
 
 ....
- sketch123                => Arduino sketch folder
-  ├── Iot Cloud Pasos        => main Arduino file
-  ├── PiD IOT CLOUD     => (optional) an image of the required schematics
-  ├── PiD IOT Cloud.ino          => (optional) an image of the layout
-  └── ReadMe         => this file
+ sketch123                
+  ├── Iot Cloud Pasos        
+  ├── PiD IOT CLOUD     
+  ├── PiD IOT Cloud.ino        
+  └── ReadMe      
 ....
 
 === License
