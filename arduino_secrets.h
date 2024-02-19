@@ -1,0 +1,3 @@
+#define SECRET_SSID "Jona"
+#define SECRET_OPTIONAL_PASS "J0n40566."
+#define SECRET_DEVICE_KEY "Cu6NAJc44qq?cIfod45NJ7qEh"
