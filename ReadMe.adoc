@@ -7,38 +7,32 @@
 
 Describe your project
 
-== Step 1: Installation
-Please describe the steps to install this project.
 
-For example:
+El presente esta basado en un Proyecto que encontre en youtube, la implementacion que yo hice fue el ingreso  
+de las variables Kp,Ki,Kd  y que estas se puedan modificar, cambiar y visualizar desde la dashboard 
+de Arduino Iot Cloud, si encuentras un error o se puede mejorar el codigo
+no dudes en hacermelo saber te dejo el link del video y mi correo tambien te dejo resumidos los pasos que debes hacer para crear la dashboard. 
+Espero que este proyecto te sirva. 
+Saludos. 
 
-1. Open this file
-2. Edit as you like
-3. Release to the World!
 
-== Step 2: Assemble the circuit
 
-Assemble the circuit following the diagram layout.png attached to the sketch
-
-== Step 3: Load the code
-
-Upload the code contained in this sketch on to your board
 
 === Folder structure
 
 ....
  sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
+  ├── Iot Cloud Pasos        => main Arduino file
+  ├── PiD IOT CLOUD     => (optional) an image of the required schematics
+  ├── PiD IOT Cloud.ino          => (optional) an image of the layout
+  └── ReadMe         => this file
 ....
 
 === License
-This project is released under a {License} License.
+This project is released by Jonathan Ayala 
 
 === Contributing
-To contribute to this project please contact: 
+This code is based on this video. https://www.youtube.com/watch?v=bl2k6eXDAGM
 
 === BOM
 Add the bill of the materials you need for this project.
