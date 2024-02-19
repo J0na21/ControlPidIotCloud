@@ -1,10 +1,9 @@
 :Author: jnathan21
-:Email:
+:Email: jnathanayala21@gmail.com
 :Date: 12/02/2024
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
 
 Describe your project
 
@@ -45,11 +44,12 @@ To contribute to this project please contact:
 Add the bill of the materials you need for this project.
 
 |===
-| ID | Part name      | Part number | Quantity
-| R1 | 10k Resistor   | 1234-abcd   | 10       
-| L1 | Red LED        | 2345-asdf   | 5        
-| A1 | Arduino Zero   | ABX00066    | 1        
-|===
+| ID | Part name           | Part number | Quantity
+| 1 | Esp32 NodeMcu        | 0000000000  | 1       
+| 1 | Potenciometro 5k     | 0000000000  | 1       
+| 1 | Puente H             | 0000000000  | 1  
+| 1 | Motor con Encoder    | 0000000000  | 1 
+
 
 
 === Help
